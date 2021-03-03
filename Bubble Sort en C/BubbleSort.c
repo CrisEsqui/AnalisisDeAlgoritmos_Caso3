@@ -6,7 +6,7 @@ void bubbleSort(int pArray[], int pSize)
 
     for (i=0; i<pSize; i++)
     {
-        for(j=0; j<pSize; j=j+1)
+        for(j=0; j<pSize-i-1; j++)
         {
             if (pArray[j] > pArray[j+1])
             {
