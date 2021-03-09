@@ -34,6 +34,5 @@ fn main() {
   }
 
   fin = SystemTime::now();
-  let difference = fin.duration_since(start);
-  println!("\nEl tiempo de ejecución fue de: {:?}", difference);
+  println!("\nEl tiempo de ejecución fue de: {:?}", fin.duration_since(start));
 }

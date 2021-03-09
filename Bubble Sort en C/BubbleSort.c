@@ -33,7 +33,6 @@ int main()
 
     final = clock();
     printf("\nEl tiempo de ejecucion fue de %f", (final-start)/CLK_TCK);
-    printf("\nInicial: %i, Final: %i, CLK_TCK: %i", start, final, CLK_TCK);
 
     return 0;
 }
