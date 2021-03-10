@@ -13,7 +13,7 @@ Pasos de prueba
 Capturas:
 
 Resultados de C:
-<img src="Capturas/c.PNG" height="400" alt="Screenshot"/>
+<img src="Capturas/c.PNG" alt="Screenshot"/>
 
 Resultados de C++:
 <img src="Capturas/c++.PNG" height="400" alt="Screenshot"/>
