@@ -23,3 +23,12 @@ Resultados de Rust:
 
 Resultados de Go:
 <img src="Capturas/go.PNG" alt="Screenshot"/>
+
+
+Analísis:
+Caso A: 
+  Como puede observarse, la cantidad de memoria que utilizaron los programas en C y C++ fue la misma, debido a que contaban con las mismas variables.
+  Además, se nota que el programa en C tuvo un tiempo de ejecución menor al de C++.
+
+Caso B:
+  El más rápido fue, notablemente, el programa codificado en C; seguido de C++, Rust y Go.
