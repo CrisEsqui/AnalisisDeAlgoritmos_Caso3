@@ -16,10 +16,10 @@ Resultados de C:
 <img src="Capturas/c.PNG" alt="Screenshot"/>
 
 Resultados de C++:
-<img src="Capturas/c++.PNG" height="400" alt="Screenshot"/>
+<img src="Capturas/c++.PNG" alt="Screenshot"/>
 
 Resultados de Rust:
-<img src="Capturas/rust.PNG" height="400" alt="Screenshot"/>
+<img src="Capturas/rust.PNG" alt="Screenshot"/>
 
 Resultados de Go:
-<img src="Capturas/go.PNG" height="400" alt="Screenshot"/>
+<img src="Capturas/go.PNG" alt="Screenshot"/>
